@@ -1,0 +1,32 @@
+{
+  "name": "expressjs-blog",
+  "version": "1.0.0",
+  "description": "A simple Node Express.js Blog app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawnless/expressjs-blog.git"
+  },
+  "keywords": [
+    "express",
+    "blog",
+    "express.js",
+    "blog",
+    "node.js",
+    "blog"
+  ],
+  "author": "Lawnless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lawnless/expressjs-blog/issues"
+  },
+  "homepage": "https://github.com/Lawnless/expressjs-blog#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
